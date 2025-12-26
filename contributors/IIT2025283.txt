@@ -1,0 +1,5 @@
+Name: Pranshu Sethi
+Roll No: IIT2025283
+Branch: Computer Science
+GitHub: https://github.com/iampranshusethi
+About: CS student exploring open source and blockchain systems
